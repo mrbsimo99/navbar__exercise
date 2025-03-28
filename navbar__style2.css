@@ -10,6 +10,13 @@ a {
   color: #29177b;
 }
 
+nav{
+  color: #29177b;
+  border-bottom: 0.25px solid; 
+  
+}
+
+
 .nav__container {
   display: flex;
   padding: 20px 40px;
@@ -56,3 +63,4 @@ a {
 .nav__container-right-signup a:hover {
   color: rgb(225, 225, 225);
 }
+
