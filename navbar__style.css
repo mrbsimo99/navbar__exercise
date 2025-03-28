@@ -10,12 +10,13 @@ a {
   color: #e5e5e5;
 }
 
-
 .nav__container {
   display: flex;
+  padding: 20px 40px;  
   justify-content: space-between;
   align-items: center;
   background-color: #29177b;
+
 }
 
 .nav__container-center ul {
@@ -36,10 +37,10 @@ a {
 
 .nav__container-right {
   background-color: #31bfaf;
-  padding: 5px 10px;
+  padding: 10px 15px;
   border-radius: 30px;
 }
 
 .nav__container-right :hover {
-  color: #228d81;
+  color:  #29177b;
 }
