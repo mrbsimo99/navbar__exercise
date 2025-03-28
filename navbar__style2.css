@@ -19,18 +19,9 @@ a {
 }
 
 .nav__container-center ul {
-    display: flex;
+  display: flex;
   list-style: none;
-
   gap: 20px;
-}
-
-.nav__container-center img {
-  width: 100%;
-}
-
-.nav__container-center img {
-  width: 1.5rem;
 }
 
 .nav__container-right {
@@ -65,4 +56,3 @@ a {
 .nav__container-right-signup a:hover {
   color: rgb(225, 225, 225);
 }
-
